@@ -81,7 +81,7 @@ Using ARIMA, the forecasted sales for **January-April 2024** are as follows:
 
 ---
 
-## 🧠 **Conclusion nd Recommendations for the Video Game Company**
+## 🧠 **Conclusion and Recommendations for the Video Game Company**
 
 This project demonstrates how robust time series models can accurately forecast sales, helping businesses make informed decisions.  
 Based on the EDA findings and the ARIMA forecast for January to April 2024, here are targeted recommendations to address the company's goals:
