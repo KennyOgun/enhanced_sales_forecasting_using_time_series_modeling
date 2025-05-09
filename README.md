@@ -1,5 +1,8 @@
 # 🎮 Enhanced Sales Forecasting Using Time Series Modeling
 
+<img width="577" alt="image" src="https://github.com/user-attachments/assets/64a537ac-6405-4521-90a6-b321c9d0dd51" />
+
+
 Welcome to the **Video Game Sales Forecasting** project! This repository contains the complete workflow, analysis, and results of forecasting monthly video game sales 
 using time series models. The project leverages advanced statistical techniques and machine learning models to predict future sales and support strategic decision-making
 in the video game industry.  
