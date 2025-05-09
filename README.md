@@ -1,4 +1,4 @@
-# Enhanced Sales Forecasting Using Time Series Modeling
+# Sales Forecasting Using Time Series Modeling
 
 <img width="577" alt="image" src="https://github.com/user-attachments/assets/64a537ac-6405-4521-90a6-b321c9d0dd51" />
 
